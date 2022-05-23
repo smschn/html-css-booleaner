@@ -1,13 +1,14 @@
 header {
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
-    background-repeat: repeat-x;
-    background-size: contain;
+    background-size: 450px;
 }
 
 .logo {
     margin-top: 50px;
     width: 20%;
+    padding-left: 10px;
+    padding-bottom: 5px;
 }
 
 h1  {
