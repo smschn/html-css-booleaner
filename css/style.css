@@ -9,3 +9,7 @@ header {
     margin-top: 50px;
     width: 20%;
 }
+
+.highlighted {
+    background-color: #ff0;
+}
