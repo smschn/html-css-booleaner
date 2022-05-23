@@ -26,3 +26,21 @@ table {
 .table_odd_rows {
     background-color: #b1e5f2;
 }
+
+.monitor {
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    width: auto;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+}
+
+.graph {
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    width: auto;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+}
