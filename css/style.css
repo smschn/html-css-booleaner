@@ -13,3 +13,12 @@ header {
 .highlighted {
     background-color: #ff0;
 }
+
+.table_head {
+    color: white;
+    background-color: #20a9e5;
+}
+
+.table_odd_rows {
+    background-color: #b1e5f2;
+}
