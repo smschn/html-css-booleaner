@@ -14,6 +14,10 @@ header {
     background-color: #ff0;
 }
 
+table {
+    text-align: left;
+}
+
 .table_head {
     color: white;
     background-color: #20a9e5;
