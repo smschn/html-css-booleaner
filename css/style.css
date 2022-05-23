@@ -10,6 +10,26 @@ header {
     width: 20%;
 }
 
+h1  {
+    font-size: 40px;
+}
+
+.scritto_da {
+    font-size: 20px;
+}
+
+.data {
+    font-size: 15px;
+}
+
+.scritto_da, .data {
+    color: #787878;
+}
+
+.autore {
+    color: #20a9e5;
+}
+
 .highlighted {
     background-color: #ff0;
 }
@@ -43,4 +63,8 @@ table {
     height: 200px;
     color: white;
     font-size: 25px;
+}
+
+h3 {
+    color: #787878;
 }
