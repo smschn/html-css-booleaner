@@ -1,0 +1,104 @@
+body {
+    margin: 0px;
+}
+
+.margine {
+    margin: 5px;
+}
+
+header {
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size: 450px;
+    background-repeat: repeat-x;
+}
+
+.logo {
+    margin-top: 50px;
+    width: 20%;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+h1  {
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.info_articolo {
+    margin-top: 0px;
+}
+
+.scritto_da {
+    font-size: 20px;
+}
+
+.data {
+    font-size: 15px;
+}
+
+.scritto_da, .data {
+    color: #787878;
+}
+
+.autore {
+    color: #20a9e5;
+}
+
+.didascalia {
+    font-size: 13px;
+    margin-top: 0px;
+}
+
+.highlighted {
+    background-color: #ff0;
+}
+
+.paragrafo_foto, .paragrafo_ultimo {
+    margin-bottom: 0px;
+}
+
+ul {
+    padding-left: 18px;
+}
+
+table {
+    text-align: left;
+}
+
+.table_head {
+    color: white;
+    background-color: #20a9e5;
+}
+
+.table_odd_rows {
+    background-color: #b1e5f2;
+}
+
+.monitor {
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+}
+
+.graph {
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+}
+
+h3 {
+    color: #787878;
+}
+
+.testo_img {
+    margin-left: 5%;
+    padding-top: 5%;
+}
