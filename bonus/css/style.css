@@ -3,7 +3,8 @@ body {
 }
 
 .margine {
-    margin: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 header {
@@ -16,8 +17,8 @@ header {
 .logo {
     margin-top: 50px;
     width: 20%;
-    padding-left: 10px;
     padding-bottom: 5px;
+    margin-left: 15%;
 }
 
 h1  {
