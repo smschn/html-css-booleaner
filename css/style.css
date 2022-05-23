@@ -30,6 +30,10 @@ h1  {
     color: #20a9e5;
 }
 
+.didascalia {
+    font-size: 13px;
+}
+
 .highlighted {
     background-color: #ff0;
 }
