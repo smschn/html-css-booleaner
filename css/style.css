@@ -43,6 +43,10 @@ h1  {
     background-color: #ff0;
 }
 
+ul {
+    padding-left: 18px;
+}
+
 table {
     text-align: left;
 }
