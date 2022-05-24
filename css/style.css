@@ -10,7 +10,7 @@ body {
 header {
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
-    background-size: 450px;
+    background-size: 40%;
     background-repeat: repeat-x;
 }
 
@@ -42,7 +42,7 @@ h1  {
 .scritto_da, .data {
     color: #787878;
 }
-
+S
 .autore {
     color: #20a9e5;
 }
@@ -66,6 +66,8 @@ ul {
 
 table {
     text-align: left;
+    border-collapse: collapse;
+    border: none;
 }
 
 .table_head {
